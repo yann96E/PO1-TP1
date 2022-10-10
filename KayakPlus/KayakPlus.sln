@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangerLaCasse", "..\Change
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password", "..\Password\Password.csproj", "{1445145A-3C73-4861-8ED6-06BE63AB363D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E", "..\E\E.csproj", "{A6780AAD-527C-45BE-9C36-BEFF6066CB64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{1445145A-3C73-4861-8ED6-06BE63AB363D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1445145A-3C73-4861-8ED6-06BE63AB363D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1445145A-3C73-4861-8ED6-06BE63AB363D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6780AAD-527C-45BE-9C36-BEFF6066CB64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6780AAD-527C-45BE-9C36-BEFF6066CB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6780AAD-527C-45BE-9C36-BEFF6066CB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6780AAD-527C-45BE-9C36-BEFF6066CB64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
