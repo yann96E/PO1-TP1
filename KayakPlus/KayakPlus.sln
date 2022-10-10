@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxTaxe", "..\MaxTaxe\MaxTa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangerLaCasse", "..\ChangerLaCasse\ChangerLaCasse.csproj", "{D295F3F4-4C24-41CA-8D49-8842FC600811}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password", "..\Password\Password.csproj", "{1445145A-3C73-4861-8ED6-06BE63AB363D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{D295F3F4-4C24-41CA-8D49-8842FC600811}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D295F3F4-4C24-41CA-8D49-8842FC600811}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D295F3F4-4C24-41CA-8D49-8842FC600811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1445145A-3C73-4861-8ED6-06BE63AB363D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1445145A-3C73-4861-8ED6-06BE63AB363D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1445145A-3C73-4861-8ED6-06BE63AB363D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1445145A-3C73-4861-8ED6-06BE63AB363D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
