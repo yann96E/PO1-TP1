@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E", "..\E\E.csproj", "{A678
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QCM", "..\QCM\QCM.csproj", "{3CF64E96-AA31-4525-AE34-BEE3F6D837EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weben_Yann", "..\Weben_Yann\Weben_Yann.csproj", "{9EB9957F-717B-45D8-AE03-D586340C948B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{3CF64E96-AA31-4525-AE34-BEE3F6D837EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CF64E96-AA31-4525-AE34-BEE3F6D837EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CF64E96-AA31-4525-AE34-BEE3F6D837EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EB9957F-717B-45D8-AE03-D586340C948B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB9957F-717B-45D8-AE03-D586340C948B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB9957F-717B-45D8-AE03-D586340C948B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB9957F-717B-45D8-AE03-D586340C948B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
