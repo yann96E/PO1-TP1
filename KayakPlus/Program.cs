@@ -1,4 +1,4 @@
-﻿namespace Kayak
+﻿namespace KayakPlus
 {
     public class Program
     {

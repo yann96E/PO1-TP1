@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password", "..\Password\Pas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E", "..\E\E.csproj", "{A6780AAD-527C-45BE-9C36-BEFF6066CB64}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QCM", "..\QCM\QCM.csproj", "{3CF64E96-AA31-4525-AE34-BEE3F6D837EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{A6780AAD-527C-45BE-9C36-BEFF6066CB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6780AAD-527C-45BE-9C36-BEFF6066CB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6780AAD-527C-45BE-9C36-BEFF6066CB64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CF64E96-AA31-4525-AE34-BEE3F6D837EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF64E96-AA31-4525-AE34-BEE3F6D837EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF64E96-AA31-4525-AE34-BEE3F6D837EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF64E96-AA31-4525-AE34-BEE3F6D837EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
