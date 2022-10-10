@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KayakPlus", "KayakPlus.csproj", "{D0D64D0C-10AA-4452-B78C-B141E20FC029}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kayak", "..\Kayak\Kayak.csproj", "{A6F75246-9E8A-4F36-B48E-B92C9FA42E37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxTaxe", "..\MaxTaxe\MaxTaxe.csproj", "{BC405A9C-22E0-41B7-BE0D-234FC821D891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0D64D0C-10AA-4452-B78C-B141E20FC029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D64D0C-10AA-4452-B78C-B141E20FC029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D64D0C-10AA-4452-B78C-B141E20FC029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D64D0C-10AA-4452-B78C-B141E20FC029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6F75246-9E8A-4F36-B48E-B92C9FA42E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F75246-9E8A-4F36-B48E-B92C9FA42E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F75246-9E8A-4F36-B48E-B92C9FA42E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F75246-9E8A-4F36-B48E-B92C9FA42E37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC405A9C-22E0-41B7-BE0D-234FC821D891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC405A9C-22E0-41B7-BE0D-234FC821D891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC405A9C-22E0-41B7-BE0D-234FC821D891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC405A9C-22E0-41B7-BE0D-234FC821D891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
