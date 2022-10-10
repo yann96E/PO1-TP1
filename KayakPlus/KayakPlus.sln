@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kayak", "..\Kayak\Kayak.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxTaxe", "..\MaxTaxe\MaxTaxe.csproj", "{BC405A9C-22E0-41B7-BE0D-234FC821D891}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangerLaCasse", "..\ChangerLaCasse\ChangerLaCasse.csproj", "{D295F3F4-4C24-41CA-8D49-8842FC600811}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{BC405A9C-22E0-41B7-BE0D-234FC821D891}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC405A9C-22E0-41B7-BE0D-234FC821D891}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC405A9C-22E0-41B7-BE0D-234FC821D891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D295F3F4-4C24-41CA-8D49-8842FC600811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D295F3F4-4C24-41CA-8D49-8842FC600811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D295F3F4-4C24-41CA-8D49-8842FC600811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D295F3F4-4C24-41CA-8D49-8842FC600811}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
